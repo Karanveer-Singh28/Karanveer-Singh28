@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karanveer-Singh28
 - 👀 I’m interested in Software Devolopement
 - 🌱 I’m currently learning Java Full Stack
-- 💞️ I’m looking to collaborate on JavaFX applications   
+- 💞️ I’m looking to collaborate on Java applications   
 - 📫 How to reach me : email ks393363@gmail.com  
 
 <!---
