@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Java applications   
 - 📫 How to reach me : email ks393363@gmail.com
 - My Projects:
-- 1. Java full stack application - Library Management Systems
+  1. Java full stack application - Library Management Systems
   2. Spotify clone website 
 
 <!---
